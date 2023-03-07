@@ -1,47 +1,70 @@
+### Maximous Black
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+> /'mak.si.mus blak/
 
-<h3 align="center">
-  Welcome to Yousef Dergham's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college
+student and I also love Physics, and want to learn more about how the Universe works.
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+### 👷 Check out what I'm currently working on
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousefdergham.netlify.app/ to see some of the projects I've worked on.
+- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
+- [maximousblk/chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies
+- [tol-is/use-scramble](https://github.com/tol-is/use-scramble) - A react-hook to create randomized text animation
+- [asetalias/asetalias.github.io](https://github.com/asetalias/asetalias.github.io) - ALIAS Official Website Repo
+- [maximousblk/mill](https://github.com/maximousblk/mill) - Set of GitHub Actions for me to build my favorite projects.
 
+### 🌱 My latest projects
 
-### Connect with Me :
+- [maximousblk/wave.rs](https://github.com/maximousblk/wave.rs) - Vanity Arweave Wallet Generator
+- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub bots with Probot and NextJS.
+- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
+- [maximousblk/wave.go](https://github.com/maximousblk/wave.go) - Vanity Arweave Wallet Generator
+- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+### 🔨 My recent Pull Requests
 
+- [ci(napi): revert to using `ubuntu-20.04` for linux builds](https://github.com/three-em/3em/pull/227) on [three-em/3em](https://github.com/three-em/3em)
+- [fix: reference error while server side rendering](https://github.com/tol-is/use-scramble/pull/3) on [tol-is/use-scramble](https://github.com/tol-is/use-scramble)
+- [BREAKING: Migrate to NextJS 13](https://github.com/maximousblk/maximousblk.me/pull/568) on [maximousblk/maximousblk.me](https://github.com/maximousblk/maximousblk.me)
+- [fix(list_array): fix overflow check](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1983) on [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+- [change h1 to h2](https://github.com/ashwinky/intro_to_git/pull/1) on [ashwinky/intro_to_git](https://github.com/ashwinky/intro_to_git)
 
+### 🔭 Latest releases I've contributed to
 
+- [maximousblk/chart](https://github.com/maximousblk/chart) [`1.1`](https://github.com/maximousblk/chart/releases/tag/1.1) - Console ASCII line charts with no dependencies
+- [maximousblk/mill](https://github.com/maximousblk/mill) [`ditsuke/go-amizone/0.0&#43;775750b`](https://github.com/maximousblk/mill/releases/tag/ditsuke/go-amizone/0.0%2B775750b) - Set of GitHub Actions for me to build my favorite projects.
+- [tol-is/use-scramble](https://github.com/tol-is/use-scramble) [`v2.2.12`](https://github.com/tol-is/use-scramble/releases/tag/v2.2.12) - A react-hook to create randomized text animation
+- [exmbuild/exm-cli](https://github.com/exmbuild/exm-cli) [`v0.1.6`](https://github.com/exmbuild/exm-cli/releases/tag/v0.1.6) - A command line application to interact with EXM
+- [maximousblk/setup-deno](https://github.com/maximousblk/setup-deno) [`v2.0.0`](https://github.com/maximousblk/setup-deno/releases/tag/v2.0.0) - GitHub Action to set up Deno
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+### ⭐ Recent Stars
+
+- [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+
+### 💖 Recent followers
+
+- [**@dhruvmalik007**](https://github.com/dhruvmalik007)
+- [**@rohanrajpal**](https://github.com/rohanrajpal)
+- [**@LucasMedeiros7**](https://github.com/LucasMedeiros7)
+- [**@AzureKrigare**](https://github.com/AzureKrigare)
+- [**@Arif1000000**](https://github.com/Arif1000000)
+
+### 📰 Recent Blog Posts
+
+- [Deno for JavaScript Beginners](https://maximousblk.me/posts/deno-for-javascript-beginners)
+- [Brute-forcing websites with Callow](https://maximousblk.me/posts/brute-forcing-websites-with-callow)
+- [Hello World](https://maximousblk.me/posts/hello-world)
+
+### 📫 How to reach me:
+
+- Website: [maximousblk.me](https://maximousblk.me/)
+- Email: [maximousblk@gmail.com](mailto:maximousblk@gmail.com)
+- Twitter: [@maximousblk](https://twitter.com/maximousblk)
+
+You can also ask me a question on my [Public AMA](https://github.com/maximousblk/maximousblk/discussions/new?category=ama)
+
+My PGP Public Key: [`EC7B EE3B 0561 BF2F`](https://keybase.io/maximousblk/pgp_keys.asc)
